@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	staging area is the area where the file is placed when it is about to be commited, this is done for grouping the commits
